@@ -20,10 +20,9 @@
 
 3. Bootstrap, Semantic UI, Ant Design 등 **CSS 구현 및 레이아웃을 돕는 라이브러리 사용은 금지**합니다
 
-
 ---
 
-## 1 ~ 2 Week (Quantum-Kit)
+### 1 ~ 2 Week (Quantum-Kit)
 
 - Link : <https://www.figma.com/file/IQa0l8tYAMUjxknznGvEy3RU/Quantum-Kit-Free?node-id=0%3A1>
 
