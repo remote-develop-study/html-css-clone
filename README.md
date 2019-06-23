@@ -39,6 +39,6 @@
   <li><a href="https://github.com/JeewhanR">@류지환</a></li> : 불참
   <li><a href="https://github.com/ysm0622">@양성민</a></li> : Local 공유 / 참여
   <li><a href="https://github.com/choilim">@임초이</a></li> : Local 공유 / 참여
-  <li><a href="https://github.com/devjang">@장현석</a></li> : Local 공유 / 
+  <li><a href="https://github.com/devjang">@장현석</a></li> : Local 공유 / 참여
 </p>
 </details>
