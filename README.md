@@ -30,9 +30,21 @@
 
 - Link : <https://www.figma.com/file/IQa0l8tYAMUjxknznGvEy3RU/Quantum-Kit-Free?node-id=0%3A1>
 
+
+<details><summary>2 Week</summary>
+<ul>
+  <li><a href="https://github.com/KimYeaSeul">@김예슬</a></li> : 참관
+  <li><a href="https://github.com/kimchunyong">@김천용</a></li> : 참여
+  <li><a href="https://github.com/brightparagon">@노경모</a></li> : 참여
+  <li><a href="https://github.com/JeewhanR">@류지환</a></li> : 참관
+  <li><a href="https://github.com/ysm0622">@양성민</a></li> : 참여
+  <li><a href="https://github.com/choilim">@임초이</a></li> : Local 공유 / 참여
+  <li><a href="https://github.com/devjang">@장현석</a></li> : Local 공유 / 참여
+</p>
+</details>
+
 <details><summary>1 Week</summary>
 <ul>
-  <li><a href="https://github.com/Kihyun92">@김기현</a></li> : 사전 공지 불참
   <li><a href="https://github.com/KimYeaSeul">@김예슬</a></li> : 불참
   <li><a href="https://github.com/kimchunyong">@김천용</a></li> : 사전 공지 불참
   <li><a href="https://github.com/brightparagon">@노경모</a></li> : 불참
