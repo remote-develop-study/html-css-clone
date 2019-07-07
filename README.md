@@ -32,7 +32,7 @@
 
 <details><summary>3 Week</summary>
 <ul>
-  <li><a href="https://github.com/KimYeaSeul">@김예슬</a></li> :
+  <li><a href="https://github.com/KimYeaSeul">@김예슬</a></li> : 참관
   <li><a href="https://github.com/kimchunyong">@김천용</a></li> : 사전 공지 불참
   <li><a href="https://github.com/brightparagon">@노경모</a></li> :
   <li><a href="https://github.com/JeewhanR">@류지환</a></li> :
