@@ -26,7 +26,24 @@
 
 ---
 
-### 1 ~ 2 Week (Quantum-Kit)
+### 4 ~ Week (Furniture Shop Mobile App UI Concept)
+
+- Link : <https://www.figma.com/file/EimpHv9HikhHBk8o8hUXrvwr/Furniture-Shop-Mobile-App-UI-Concept?node-id=0%3A2>
+
+<details><summary>4 Week</summary>
+<ul>
+  <li><a href="https://github.com/KimYeaSeul">@김예슬</a></li> : 참여
+  <li><a href="https://github.com/kimchunyong">@김천용</a></li> : 참여
+  <li><a href="https://github.com/brightparagon">@노경모</a></li> : 불참
+  <li><a href="https://github.com/JeewhanR">@류지환</a></li> : 관람
+  <li><a href="https://github.com/ysm0622">@양성민</a></li> : 불참
+  <li><a href="https://github.com/choilim">@임초이</a></li> : 불참
+  <li><a href="https://github.com/devjang">@장현석</a></li> : 관람
+</p>
+</details>
+
+
+### 1 ~ 3 Week (Quantum-Kit)
 
 - Link : <https://www.figma.com/file/IQa0l8tYAMUjxknznGvEy3RU/Quantum-Kit-Free?node-id=0%3A1>
 
