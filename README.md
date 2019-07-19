@@ -32,7 +32,7 @@
 
 <details><summary>4 Week</summary>
 <ul>
-  <li><a href="https://github.com/KimYeaSeul">@김예슬</a></li> : 참여
+  <li><a href="https://github.com/KimYeaSeul">@김예슬</a></li> : 참여 (코드: https://github.com/KimYeaSeul/Html-CSSC_CLONE/tree/master/clone2) 7월21일 불참입니다... 어디다 남기는지 몰라 일단 남깁니다...
   <li><a href="https://github.com/kimchunyong">@김천용</a></li> : 참여 (코드: https://github.com/kimchunyong/clone_layout_study/tree/master/chapter02/front)
   <li><a href="https://github.com/brightparagon">@노경모</a></li> : 불참
   <li><a href="https://github.com/JeewhanR">@류지환</a></li> : 관람
@@ -49,7 +49,7 @@
 
 <details><summary>3 Week</summary>
 <ul>
-  <li><a href="https://github.com/KimYeaSeul">@김예슬</a></li> : 참관
+  <li><a href="https://github.com/KimYeaSeul">@김예슬</a></li> : 참관 (코드 : https://github.com/KimYeaSeul/Html-CSSC_CLONE/tree/master/clone1)
   <li><a href="https://github.com/kimchunyong">@김천용</a></li> : 사전 공지 불참
   <li><a href="https://github.com/brightparagon">@노경모</a></li> : 참여
   <li><a href="https://github.com/ysm0622">@양성민</a></li> : 참여 (배포 : https://ysm.sh/clone1/) (코드 : https://github.com/ysm0622/clone1)
@@ -60,7 +60,7 @@
 
 <details><summary>2 Week</summary>
 <ul>
-  <li><a href="https://github.com/KimYeaSeul">@김예슬</a></li> : 참관
+  <li><a href="https://github.com/KimYeaSeul">@김예슬</a></li> : 참관 (코드 : https://github.com/KimYeaSeul/Html-CSSC_CLONE/tree/master/clone1)
   <li><a href="https://github.com/kimchunyong">@김천용</a></li> : 참여
   <li><a href="https://github.com/brightparagon">@노경모</a></li> : 참여
   <li><a href="https://github.com/JeewhanR">@류지환</a></li> : 참관
