@@ -38,7 +38,7 @@
   <li><a href="https://github.com/brightparagon">@노경모</a></li> : 관람
   <li><a href="https://github.com/JeewhanR">@류지환</a></li> : 관람
   <li><a href="https://github.com/ysm0622">@양성민</a></li> : 참여 (배포 : https://ysm.sh/clone2/) (코드 : https://github.com/ysm0622/clone2)
-  <li><a href="https://github.com/choilim">@임초이</a></li> : 참여
+  <li><a href="https://github.com/choilim">@임초이</a></li> : 참여 (코드: https://github.com/choilim/StyleClone2)
   <li><a href="https://github.com/devjang">@장현석</a></li> : 관람
 </p>
 </details>
