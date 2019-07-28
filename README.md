@@ -26,7 +26,26 @@
 
 ---
 
-### 4 ~ Week (Furniture Shop Mobile App UI Concept)
+
+### 6 ~ Week (Netflix Responsive)
+
+- Link : <https://www.netflix.com>
+
+
+<details><summary>6 Week</summary>
+<ul>
+  <li><a href="https://github.com/KimYeaSeul">@김예슬</a></li>
+  <li><a href="https://github.com/kimchunyong">@김천용</a></li>
+  <li><a href="https://github.com/brightparagon">@노경모</a></li>
+  <li><a href="https://github.com/JeewhanR">@류지환</a></li> : 사전 공지 불참
+  <li><a href="https://github.com/ysm0622">@양성민</a></li>
+  <li><a href="https://github.com/choilim">@임초이</a></li>
+  <li><a href="https://github.com/devjang">@장현석</a></li> : 불참
+</p>
+</details>
+
+
+### 4 ~ 5 Week (Furniture Shop Mobile App UI Concept)
 
 - Link : <https://www.figma.com/file/EimpHv9HikhHBk8o8hUXrvwr/Furniture-Shop-Mobile-App-UI-Concept?node-id=0%3A2>
 
