@@ -27,7 +27,7 @@
 ---
 
 
-### 6 ~ Week (Netflix Responsive)
+### 6 ~ 9 Week (Netflix Responsive)
 
 - Link : <https://www.netflix.com>
 
