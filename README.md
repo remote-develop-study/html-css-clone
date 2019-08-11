@@ -51,8 +51,8 @@
   <li><a href="https://github.com/brightparagon">@노경모</a></li> :
   <li><a href="https://github.com/JeewhanR">@류지환</a></li> :
   <li><a href="https://github.com/ysm0622">@양성민</a></li> :
-  <li><a href="https://github.com/choilim">@임초이</a></li> : 사전 공지 불참
-  <li><a href="https://github.com/devjang">@장현석</a></li> : 사전 공지 불참
+  <li><a href="https://github.com/choilim">@임초이</a></li> :
+  <li><a href="https://github.com/devjang">@장현석</a></li> :
 </p>
 </details>
 
